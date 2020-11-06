@@ -1,7 +1,6 @@
-[[redirects]]
-  from = "https://escribe.decidebien.pe/"
-  to = "https://jincio.shinyapps.io/email_congreso/"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+from = "https://escribe.decidebien.pe/"
+to = "https://jincio.shinyapps.io/email_congreso/"
+status = 301
+force = false
+query = {path = ":path"}
+conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
