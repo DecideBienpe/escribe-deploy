@@ -1,5 +1,5 @@
 [[redirects]]
-from = "https://escribe.decidebien.pe/"
+from = "escribe.decidebien.pe/"
 to = "https://jincio.shinyapps.io/email_congreso/"
 status = 301
 force = false
